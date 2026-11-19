@@ -327,6 +327,7 @@
 - [Noti](https://noti.center/) - Receive Android notifications on your mac (with PushBullet). [![Open-Source Software][OSS Icon]](https://github.com/jariz/Noti/) ![Freeware][Freeware Icon]
 - [Numi](http://numi.io/) - Beautiful calculator app. ![Freeware][Freeware Icon]
 - [OnyX](http://www.titanium.free.fr/) -  Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware][Freeware Icon]
+- [PanelRest](https://github.com/myyccccc/PanelRest) - Turns a Mini-LED or OLED display truly black while the Mac keeps running. [![Open-Source Software][OSS Icon]](https://github.com/myyccccc/PanelRest) ![Freeware][Freeware Icon]
 - [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages. ![Freeware][Freeware Icon]
 - [Paragon NTFS](http://www.paragon-drivers.com/ntfs-mac/) - World fastest NTFS driver.
 - [Picmal](https://picmal.app/) - Convert and compress images, video, audio, and PDFs entirely offline, with Finder, Shortcuts, and Raycast integration.
