@@ -162,6 +162,7 @@
 
 ### Finder
 
+- [Finder Grouping Assistant](https://github.com/myyccccc/Finder-Grouping-Assistant) - Automatically applies your chosen grouping and sorting to every Finder window. [![Open-Source Software][OSS Icon]](https://github.com/myyccccc/Finder-Grouping-Assistant) ![Freeware][Freeware Icon]
 - [ForkLift](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.
 - [Path Finder](http://www.cocoatech.com/pathfinder/) - A powerful dual-pane browser alternative to Finder.
 - [Pathly](https://pathly.sophinauta.com/) - Copy any file or folder path from Finder: full, directory, URL, or Git-relative.
